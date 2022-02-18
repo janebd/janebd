@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @janebd
+- 👀 I’m interested in making @Discord bots
+- 🌱 I’m currently learning Discord.js
+- 📫 How to reach me **stormedJane#0001**
